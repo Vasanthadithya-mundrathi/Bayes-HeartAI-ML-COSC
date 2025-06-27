@@ -86,6 +86,8 @@ scikit-learn>=1.0.0
 ```bash
 cd bayesian_heart_disease/
 python heart_disease_predictor_simple.py
+or
+python heart_disease_predictor.py
 ```
 
 ### Challenge Requirements Fulfilled
